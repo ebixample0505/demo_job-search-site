@@ -7988,6 +7988,7 @@ body#page-home main#main-container section.member h2 .en {
 @media screen and (max-width: 1024px) {
   body#page-home main#main-container section.member .of-wrap {
     padding-top: 36.71875vw;
+    margin-bottom: -40.0vw;
   }
 }
 @media screen and (min-width: 640px) and (max-width: 1024px) {
